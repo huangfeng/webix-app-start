@@ -1,0 +1,7 @@
+.idea/
+libs/
+deploy/
+node_modules/
+server/config.php
+server/sql.log
+*.iml
