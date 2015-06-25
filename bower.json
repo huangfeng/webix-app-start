@@ -20,6 +20,7 @@
     "almond": "~0.3.1",
     "webix": "~2.4.7",
     "routie": "~0.3.2",
-    "requirejs": "~2.1.18"
+    "requirejs": "~2.1.18",
+    "webix-mvc-core": "~0.1.0"
   }
 }

@@ -3,7 +3,7 @@
 */
 
 define([
-	"libs/webix-mvc/core",
+	"libs/webix-mvc-core/core",
 	"helpers/menu"
 ], function(core, menu){
 
